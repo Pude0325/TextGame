@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="C:\eric\主資料夾\其他資料\素材庫\圖片\PuMaze\icon.png"
+   inkscape:export-xdpi="288"
+   inkscape:export-ydpi="288"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="22.468751"
+     inkscape:cx="4.3838663"
+     inkscape:cy="15.22114"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="2.8677269 : 13.056119 : 1"
+       inkscape:vp_y="707.10678 : 707.10678 : 0"
+       inkscape:vp_z="14.181436 : 1.7424098 : 1"
+       inkscape:persp3d-origin="6.6389631 : 5.5136459 : 1"
+       id="perspective4108" />
+  </defs>
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#716df2;stroke:#000000;stroke-width:0.1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect930-1"
+       width="8.1509056"
+       height="12.619741"
+       x="-12.069005"
+       y="0.67661953" />
+    <g
+       id="g6512"
+       transform="matrix(0.86643031,-0.04802473,0.04802473,0.86643031,-1.034198,1.5965882)">
+      <rect
+         style="fill:#716df2;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect930"
+         width="8.1509056"
+         height="12.619741"
+         x="0.9907496"
+         y="2.5356512"
+         transform="rotate(-6.6614696)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.3388px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25847"
+         x="1.7193621"
+         y="12.724786"
+         id="text1873"
+         transform="rotate(-6.9213616)"><tspan
+           sodipodi:role="line"
+           id="tspan1871"
+           x="1.7193621"
+           y="12.724786"
+           style="stroke-width:0.25847">P</tspan></text>
+    </g>
+    <rect
+       style="fill:#716df2;stroke:#000000;stroke-width:0.18567;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect930-7"
+       width="7.5668745"
+       height="11.715508"
+       x="8.332449"
+       y="0.62777954"
+       transform="rotate(7.7117469)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.11095px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.202773"
+       x="8.8691931"
+       y="9.4567547"
+       id="text3737"
+       transform="rotate(8.3487564)"><tspan
+         sodipodi:role="line"
+         id="tspan3735"
+         x="8.8691931"
+         y="9.4567547"
+         style="stroke-width:0.202773">M</tspan><tspan
+         sodipodi:role="line"
+         x="8.8691931"
+         y="19.595444"
+         id="tspan3739"
+         style="stroke-width:0.202773" /></text>
+  </g>
+</svg>

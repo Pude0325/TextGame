@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>NoName</title>
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+    <link href="./DATA/image/Title/Style_main.css" rel="stylesheet" type="text/css">
+</head>
+
+<body style="margin: 0px;">
+    <div Id="titleBar" style="-webkit-app-region: drag; top: 0px; width: 100%; height: 32px; margin: 0px; background-color: rgb(88, 88, 88);">
+        <div style="float: left; height: 32px;">
+            <img src="./DATA/image/icon.svg" style="width: 28px; height: 28px; padding: 2px;">
+            <p class="titleText">Test</p>
+        </div>
+        <div style="float: right; -webkit-app-region: none;">
+            <img class="titleBtn" src="./DATA/image/Title/close.svg" onclick="SystemDisplay.__CloseApp()">
+            <img class="titleBtn" src="./DATA/image/Title/max.svg" onclick="SystemDisplay.__MaxApp()">
+            <img class="titleBtn" src="./DATA/image/Title/min.svg" onclick="SystemDisplay.__MinApp()">
+        </div>
+    </div>
+
+    <div id="pumaze_gameView">
+
+    </div>
+
+</body>
+<script src="./DATA/JavaScript/GameSystem.js"></script>
+</html>

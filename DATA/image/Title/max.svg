@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="最大化按鈕.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="22.627417"
+     inkscape:cx="8.9493202"
+     inkscape:cy="10.429825"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4417"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#c8c8c8;stop-opacity:1;"
+         offset="0"
+         id="stop4415" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5476">
+      <g
+         inkscape:label="Clip"
+         id="use5478">
+        <rect
+           style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect5615"
+           width="13"
+           height="13"
+           x="1.5"
+           y="1.5"
+           rx="3"
+           ry="3" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect5617"
+           width="12"
+           height="12"
+           x="2"
+           y="2"
+           rx="2.6500001"
+           ry="2.6500001" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7060">
+      <g
+         inkscape:label="Clip"
+         id="use7062">
+        <rect
+           style="fill:#e3e3e3;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect7067"
+           width="13"
+           height="13"
+           x="1.5"
+           y="1.5"
+           rx="3"
+           ry="3" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           id="rect7069"
+           width="12"
+           height="12"
+           x="2"
+           y="2"
+           rx="2.6500001"
+           ry="2.6500001" />
+      </g>
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="圖層 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2386"
+       style="fill:#c8c8c8;fill-opacity:1"
+       transform="translate(-15.644738,-1.6349447)">
+      <rect
+         style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.184292;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect846"
+         width="1.8318036"
+         height="18.837503"
+         x="10.397815"
+         y="-9.4187279"
+         ry="0.74448413"
+         rx="0.74448413"
+         transform="matrix(0.70711887,0.70709469,-0.70711887,0.70709469,0,0)" />
+      <rect
+         style="fill:#c8c8c8;fill-opacity:1;stroke:none;stroke-width:0.184292;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect846-2"
+         width="1.8318036"
+         height="18.837503"
+         x="-0.91626483"
+         y="-20.732468"
+         ry="0.74448413"
+         rx="0.74448413"
+         transform="matrix(-0.70709469,0.70711887,-0.70709469,-0.70711887,0,0)" />
+    </g>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.249615;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect7571-7"
+       width="12"
+       height="1.5"
+       x="0.70365036"
+       y="-2.6364856" />
+    <g
+       id="g8280">
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.230885;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect7571-7-9"
+         width="11"
+         height="1.4"
+         x="4.2000008"
+         y="-13.2"
+         transform="rotate(90)" />
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.230885;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect7571-7-12"
+         width="11"
+         height="1.4"
+         x="2.8000007"
+         y="-2.2"
+         transform="rotate(90)" />
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.230885;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect7571-7-1"
+         width="11"
+         height="1.4"
+         x="2.2"
+         y="2.8000007" />
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.230884;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect7571-7-1-7"
+         width="11"
+         height="1.4"
+         x="0.80000007"
+         y="13.8" />
+    </g>
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.230885;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect7571-7-9-5"
+       width="11"
+       height="1.4"
+       x="2.2"
+       y="-15.2"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.110394;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect7571-7-12-2"
+       width="2.5147185"
+       height="1.4"
+       x="0.79999995"
+       y="-4.1999998"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.230885;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect7571-7-1-8"
+       width="11"
+       height="1.4"
+       x="4.1999998"
+       y="0.79999995" />
+    <rect
+       style="fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.0877836;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect7571-7-1-7-1"
+       width="1.5901281"
+       height="1.4"
+       x="12.209872"
+       y="11.799999" />
+  </g>
+</svg>
